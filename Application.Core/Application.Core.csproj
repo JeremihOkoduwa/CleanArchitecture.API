@@ -13,6 +13,9 @@
     <Folder Include="DomainServices\" />
     <Folder Include="DomainEventsAndHandlers\" />
     <Folder Include="CustomException\" />
+    <Folder Include="GuardClauses\" />
+    <Folder Include="FluentValidation\" />
+    <Folder Include="ViewModels\" />
   </ItemGroup>
 
 </Project>
